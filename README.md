@@ -19,22 +19,22 @@
 目录:
 * [Angular 2](#angular-2)
   * [官方资源](#官方资源)
-  * [社区](#community)
-  * [Twitter上的专家](#experts-on-twitter)
-  * [服务器端渲染](#server-side-rendering)
+  * [社区](#社区)
+  * [Twitter上的专家](#Twitter上的专家)
+  * [服务器端渲染](#服务器端渲染)
   * [Material Design](#material-design)
-  * [在线资源库备忘单](#cheatsheet)
-  * [特性](#features)
-    * [注解](#annotations)
-    * [视图](#view)
-    * [模板](#templates)
-    * [变化检测](#change-detection)
-    * [依赖注入](#dependency-injection)
-    * [管道](#pipes)
+  * [Cheatsheet](#cheatsheet)
+  * [特性](#特性)
+    * [注解](#注解)
+    * [视图](#视图)
+    * [模板](#模板)
+    * [变化检测](#变化检测)
+    * [依赖注入](#依赖注入)
+    * [管道](#管道)
     * [Web Workers](#web-workers)
     * [HTTP](#http)
-    * [路由](#router)
-    * [测试](#test)
+    * [路由](#路由)
+    * [测试](#测试)
   * [Angular CLI](#angular-cli)
   * [系列文章](#series)
   * [视频教程](#video-tutorials)
@@ -86,32 +86,33 @@
 > Angular 是一个构建移动与桌面web英勇的开发平台
 
 #### 官方资源
-* [Site](https://angular.io/)
-* [Blog](http://angularjs.blogspot.com/)
-* [Documentation](https://angular.io/docs/js/latest/)
-* [Cheatsheet](https://angular.io/cheatsheet)
-* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [GitHub Repo](https://github.com/angular/angular)
+* [官方网站](https://angular.io/) // 无法访问？
+* [博客](http://angularjs.blogspot.com/) // 无法访问？
+* [文档](https://angular.io/docs/js/latest/) // 无法访问？
+* [备忘录](https://angular.io/cheatsheet) // 无法访问？
+* [开始指导](https://angular.io/docs/js/latest/quickstart.html) // 无法访问？
+* [GitHub仓库](https://github.com/angular/angular) 
 
-#### Community
+#### 社区
 * `#angular2` channel on Freenode IRC Server
-* [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
+* [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter // 无法访问？
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
-* [@AngularJS on Twitter](https://twitter.com/angularjs)
+* [@AngularJS on Twitter](https://twitter.com/angularjs) // 无法访问？
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/angular2/)
-* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
-* [AngularJS on Google+](https://plus.google.com/+AngularJS/posts)
-* [AngularAir](http://angular-air.com/) podcast and live broadcast
+* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/) // 无法访问？
+* [AngularJS on Google+](https://plus.google.com/+AngularJS/posts) // 无法访问？
+* [AngularAir](http://angular-air.com/) podcast and live broadcast // 无法访问？
 * [Adventures in Angular](https://devchat.tv/adventures-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
-* [tryangular2](http://www.tryangular2.com/)
-* [Built With Angular 2](http://builtwithangular2.com/)
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
-* [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+* [tryangular2](http://www.tryangular2.com/) // 无法访问？
+* [Built With Angular 2](http://builtwithangular2.com/) // 一些Angular2 构建项目的实例
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/)) // 无法访问？
+* [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/)) // 无法访问？
 
-#### Experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
+#### Twitter上的专家 
+> Twitter上Angular的专家列表（无特定排序）当然这个列表也是不完整的<br/>
+> 无法访问？
 
 * [@gdi2290](https://twitter.com/gdi2290)
 * [@jeffwhelpley](https://twitter.com/jeffwhelpley)
@@ -148,68 +149,70 @@
 * [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
-#### Server-Side Rendering
+#### 服务器端渲染
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Material Design
 * [Official Angular 2 Material Design (GitHub)](https://github.com/angular/material2)
 
 #### Cheatsheet
-* [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
+* [官方 Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 
-#### Features
+#### 特性
 
-##### Annotations
-###### Directives
-Directives allow you to attach behavior to elements in the DOM.
-<br>[Read more »](features/Annotations.md#directives)
+##### 注解
+###### 指令
+指令让你能够为DOM元素添加行为。
+<br>[查看更多 »](features/Annotations.md#directives)
 
-###### Components
-A component is a directive which uses shadow DOM to create encapsulate visual behavior. Components are typically used to create UI widgets or to break up the application into smaller components.
-<br>[Read more »](features/Annotations.md#components)
+###### 组件
+组件是一种利用**阴影DOM**将可见的操作封装起来的指令。典型的，组件被用于创建UI控件或者是将应用分为更小的组件。
+<br>[查看更多 »](features/Annotations.md#components)
 
-##### View
-A View is a core primitive used by angular to render the DOM tree.
-<br>[Read more »](features/View.md)
+##### 视图
+视图是Angular渲染DOM树的核心本原。
+<br>[查看更多 »](features/View.md)
 
-##### Templates
-Templates are markup which is added to HTML to declaratively describe how the application model should be
-projected to DOM as well as which DOM events should invoke which methods on the controller.
-<br>[Read more »](features/Templates.md)
+##### 模板
+模板是一种添加到HTML中的标记，它们被用于声明性的描述应用模型应该如何在DOM中被维护，以及DOM事件应该调用哪些控制器中的方法。
+<br>[查看更多 »](features/Templates.md)
 
-##### Change detection
-Every component gets a change detector responsible for checking the bindings defined in its template.
-<br>[Read more »](features/ChangeDetection.md)
+##### 变化检测
+每一个组件都获得了一个检测器，负责检查那些在模板中被定义的绑定的元素和事件。
+<br>[查看更多 »](features/ChangeDetection.md)
 
-##### Dependency Injection
+##### 依赖注入
 Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
-<br>[Read more »](features/DI.md)
+在Angular 1.x中有两个API用户依赖注入到指令中，而Angular2将两个API统一， 使得代码更易懂和容易测试。
+<br>[查看更多 »](features/DI.md)
 
-##### Pipes
-Pipes can be appended on the end of the expressions to translate the value to a different format.
-<br>[Read more »](features/Pipes.md)
+##### 管道
+管道被添加到表达式的末尾，用于将值转换为不同的格式。
+<br>[查看更多 »](features/Pipes.md)
 
 ##### Web Workers
 WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
 When you choose to run your application in a WebWorker angular runs both your application's logic and the
 majority of the core angular framework in a WebWorker.
-<br>[Read more »](features/WebWorkers.md)
+Angular2中设计了WebWorker，让你的web应用更容易实现并行化。当你选择在WebWorker中运行你得应用时， angular将你的应用逻辑和大部分的angular核心框架同时运行在
+WebWorker中。
+<br>[查看更多 »](features/WebWorkers.md)
 
 ##### HTTP
-Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
-<br>[Read more »](features/HTTP.md)
+Http以一个可被注入的类使用，被用于实现http请求的方法。 调用请求后将返回一个事件发射器EventEmitter，它将在接收到响应后发射一个单独的响应对象。
+<br>[查看更多 »](features/HTTP.md)
 
-##### Router
+##### 路由
 * [ui-router](https://github.com/angular-ui/ui-router)
-<br>[Read more »](features/Router.md)
+<br>[查看更多 »](features/Router.md)
 
-##### Test
-* [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
-* [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
+##### 测试
+* [使用Jasmine测试Angular 2中的Http服务](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
+* [使用TestComponentBuilder测试UI组件](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
-<br>[Read more »](features/Test.md)
+<br>[查看更多 »](features/Test.md)
 
 #### Angular CLI
 * [Official web page](https://cli.angular.io/)
