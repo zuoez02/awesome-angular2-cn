@@ -193,9 +193,6 @@ Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 
 <br>[查看更多 »](features/Pipes.md)
 
 ##### Web Workers
-WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
-When you choose to run your application in a WebWorker angular runs both your application's logic and the
-majority of the core angular framework in a WebWorker.
 Angular2中设计了WebWorker，让你的web应用更容易实现并行化。当你选择在WebWorker中运行你得应用时， angular将你的应用逻辑和大部分的angular核心框架同时运行在
 WebWorker中。
 <br>[查看更多 »](features/WebWorkers.md)
