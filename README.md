@@ -184,7 +184,6 @@
 <br>[查看更多 »](features/ChangeDetection.md)
 
 ##### 依赖注入
-Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
 在Angular 1.x中有两个API用户依赖注入到指令中，而Angular2将两个API统一， 使得代码更易懂和容易测试。
 <br>[查看更多 »](features/DI.md)
 
