@@ -83,7 +83,7 @@
 
 
 ### Angular 2
-> Angular 是一个构建移动与桌面web英勇的开发平台
+> Angular 是一个构建移动与桌面web应用的开发平台
 
 #### 官方资源
 * [官方网站](https://angular.io/) // 无法访问？
@@ -214,8 +214,8 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
 
-#### Series
-* 系列文章
+#### 系列文章
+* Ionic
   * Angular 2
     * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
     * [Components](http://blog.ionic.io/angular-2-series-components/)
@@ -229,7 +229,7 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 
-#### Video Tutorials
+#### 视频教程
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/series/building-a-time-machine-with-angular-2-and-rxjs)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
@@ -238,7 +238,7 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 * [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started)
 
-#### Style Guides
+#### 样式指南
 
 * [Official Angular 2 Style guide](https://angular.io/styleguide)
 
@@ -254,7 +254,7 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [Modularity and Packaging for Angular2 Applications – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
 * [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
 
-#### Books
+#### 书籍
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
@@ -262,7 +262,7 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 
-#### On-Site Training
+#### 在线练习
 * [AngularClass](https://angularclass.com)
 * [Angular Boot Camp](http://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
@@ -270,7 +270,7 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
 
-#### Approach and Explanation
+#### 探讨与解释
 
 * Victor Savkin
   * [Dependency Injection in Angular 1 and Angular 2](http://victorsavkin.com/post/126514197956/dependency-injection-in-angular-1-and-angular-2)
@@ -297,13 +297,13 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-#### Integrations
+#### 集成
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://www.angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
-#### Components
+#### 组件
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
@@ -332,10 +332,10 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
 
-#### Pipes
+#### 管道
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
 
-#### Generators
+#### 生成器
 * Node.js
   * Slush
     * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
@@ -362,37 +362,37 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 
 ---
 
-### Angular 2 in TypeScript
-> TypeScript lets you write JavaScript the way you really want to.
-TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+### 用Typescript写Angular2程序
+>  Typescript让你用你真正希望的方式来书写javascript。
+Typescript是一种Javascript的超集，它也可以被编译为Javascript。
 
-#### TypeScript General Resources
-* [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
-* [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [TSD](http://definitelytyped.org/tsd/) TypeScript Definition manager for DefinitelyTyped
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+#### TypeScript 常用资源
+* [TypeScript](http://www.typescriptlang.org/) TypeScript官方网站
+* [REPL](http://www.typescriptlang.org/Playground) 官方的Typescript交互式解释器，完全运行在浏览器中
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) TypeScript的Github官方仓库
+* [TSD](http://definitelytyped.org/tsd/) Typescript定义管理器
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) 高质量Typescript类型定义的Github仓库
 
 
-#### TypeScript Seed Projects
-* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
-* [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
-* [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-* [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
-* [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
-* [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
-* [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
-* [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
-* [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-* [Angular 2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
-* [ng2-start](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-* [ng2Boilerplate](https://github.com/born2net/ng2Boilerplate) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular2.
-* [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
-* [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme. 
-* [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
+#### TypeScript 种子工程
+* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - 这个Angular2 Webpack Starter装备了Angular2的诸多特性(路由, Http, 表单, service, 测试, E2E )， 并使用了Karma, Protractor, Jasmine, Typescript和Webpack。
+* [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) - Angular 2 apps的种子工程
+* [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) - 使用Typescript和SystemJS loader的最小的Angular2项目
+* [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) - 这个Angular2项目使用了Typescript, SystemJS和Firebase， 同时也包含了单元测试、Travis的持续集成和Saucelabs。
+* [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) - Angular 2 Go !
+* [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) - Angular 2.0 样例组件
+* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase) - Todo App， 使用了Firebase、 OAuth和Immutable
+* [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) - Angular2 实用性的例子，基于 [Rails tutorial](https://www.railstutorial.org/).
+* [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) -  Angular2和Typescript的种子工程，不太简单也太不复杂。事实上正好
+* [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) - 使用 Gulp workflow和Travis CI的Angular2样例
+* [Angular 2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter) - 基于Angular2和Leaflet的地图应用样例
+* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - 使用双路或单路重连websockets通信的计数器示例
+* [ng2-start](https://github.com/cebor/ng2-start) - 最简单的Angular2 starter
+* [ng2Boilerplate](https://github.com/born2net/ng2Boilerplate) - 终极Angular 2 bootstrap 单页应用 - 涉及Angular2所有的关键点与高级特征.
+* [angular2-demo](https://github.com/amcdnl/angular2-demo) 最简单的Angular2 Demo，使用TypeScript / Sass / Npm Tasks
+* [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - 使用仪表盘控制面板的种子工程，基于Angular2和AdminLTE bootstrap主题
+* [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart) 快速开始Angular2的种子工程
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md) 添加你的仓库
 
 ---
 
