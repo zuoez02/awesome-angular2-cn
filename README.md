@@ -304,36 +304,36 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
 #### 组件
-* [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
+* [Material 2](https://github.com/angular/material2) - Angular团队的Material Design组件
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
-* [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
-* [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
-* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
-* [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
-* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
-* [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
-* [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
-* [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-* [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
-* [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
-* [angular2-locker](https://github.com/MikaAK/angular2-locker) Library for interfacing with Localstorage/session/cookies with in-memory backup
-* [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps
-* [ng2-radio-group](https://github.com/pleerock/ng2-radio-group) Angular2 directives for radio and checkbox inputs and radio input groups
-* [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Dropdown menu for angular2 and bootstrap 3
-* [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Simple progress bar for angular2 and bootstrap 3
-* [ng2-tabs](https://github.com/pleerock/ng2-tabs) Tabs control for angular2 and bootstrap 3
-* [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
-* [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
-* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
-* [prime-ng](http://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
-* [ng2-ace](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
-* [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
-* [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
-* [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) 原生Angular2 Bootstrap 3&4组件
+* [ng2-charts](https://github.com/valor-software/ng2-charts)  基于Chart.js的Angular2图表
+* [ng2-dragula](https://github.com/valor-software/ng2-dragula) 拖动功能是如此简单!
+* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) 易用的文件上传指令
+* [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) 类似于Excel的数据网格/电子表格
+* [ng2-select](https://github.com/valor-software/ng2-select) 基于Angular2的选择框替代品
+* [ng2-table](https://github.com/valor-software/ng2-table) 简单的表格插件，带有排序、过滤、分页等功能
+* [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) 的实验性Angular2指令
+* [ag-grid](http://www.ag-grid.com/) 先进的数据网格，适用于 Javascript / AngularJS 1.x / AngularJS 2 / Web Components
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) JWTs 关于发送已认证的HTTP请求和解码JWT的库
+* [angular2-cookie](https://github.com/salemdar/angular2-cookie) 在Angular2中实现Angular 1.x 中$cookies service的库
+* [angular2-locker](https://github.com/MikaAK/angular2-locker) 实现Localstorage/session/cookies内存备份的接口库
+* [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Google Maps的Angular2指令
+* [ng2-radio-group](https://github.com/pleerock/ng2-radio-group) 单选框、复选框和单选框组的Angular2指令
+* [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Angular2和Bootstrap3的下拉菜单
+* [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Angular2和Bootstrap3的简单进度条
+* [ng2-tabs](https://github.com/pleerock/ng2-tabs) Angular2和Bootstrap3的标签页控制
+* [ng2-modal](https://github.com/pleerock/ng2-modal) Angular2和Bootstrap3的模态窗体
+* [ng2-paginator](https://github.com/pleerock/ng2-paginator) Angular2和Bootstrap3的的分页控制
+* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Angular2中的Bootstrap4组件与指令
+* [prime-ng](http://www.primefaces.org/primeng/)  Angular2的富UI组件集合
+* [ng2-ace](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2的Ace编辑器指令
+* [ng2-storage](https://github.com/seiyria/ng2-storage)  用ES6 Proxies为Angular2写的localStorage和sessionStorage封装
+* [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) 一个小指令，让FontAwesome更易用
+* [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) 搭配Angular2的sweetalert2的封装
 
 #### 管道
-* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
+* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) 排序和范围的管道，从Angular1.x移植到Angular2
 
 #### 生成器
 * Node.js
