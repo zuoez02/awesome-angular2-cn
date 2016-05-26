@@ -371,7 +371,7 @@ Typescript是一种Javascript的超集，它也可以被编译为Javascript。
 * [REPL](http://www.typescriptlang.org/Playground) 官方的Typescript交互式解释器，完全运行在浏览器中
 * [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) TypeScript的Github官方仓库
 * [TSD](http://definitelytyped.org/tsd/) Typescript定义管理器
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) 高质量Typescript类型定义的Github仓库
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) 高质量的Typescript类型定义的Github仓库
 
 
 #### TypeScript 种子工程
