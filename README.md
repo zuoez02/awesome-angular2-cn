@@ -1,4 +1,4 @@
-### 这是一个中文版的Angular2相关资源的列表，Fork自[Awesome Angular 2](https://github.com/AngularClass/awesome-angular2)
+##### 这是一个中文版的Angular2相关资源的列表，Fork自[Awesome Angular 2](https://github.com/AngularClass/awesome-angular2)
 
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
