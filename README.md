@@ -283,10 +283,10 @@ Http以一个可被注入的类使用，被用于实现http请求的方法。 �
   * [Angular 2 Bits: Unified Dependency Injection](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection) 统一化的依赖注入
 
 * thoughtram
-  * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
-  * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
-  * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
-  * [Forward references in Angular 2](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+  * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html) 在Angular2中开发一个tabs组件
+  * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html) 在Angular2中开发一个zippy组件
+  * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html) 解决Angular2中的服务注入
+  * [Forward references in Angular 2](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html) 向前的Angular2手册
   * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
   * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
   * [Routing in Angular 2](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
